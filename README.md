@@ -7,4 +7,5 @@
 ![](test2.png).
 
 :star: Test Case 3.
-![](test3.png)
+
+![](test3.png).
